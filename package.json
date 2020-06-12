@@ -1,0 +1,16 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "This is the node server for my chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "niharika",
+  "license": "ISC",
+  "dependencies": {
+    "index.js": "0.0.3",
+    "nodemon": "2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
